@@ -1,4 +1,4 @@
-package com.github.masx200.leetcode_test.zigzag_iterator
+package com.github.masx200.leetcode_test_kotlin.zigzag_iterator
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertContentEquals

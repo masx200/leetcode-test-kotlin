@@ -20,9 +20,7 @@ leetcode 测试和题解,包含 kotlin 版本.
 
 To get a Git project into your build:
 
-Step 1. Add the JitPack repository to your build file
-
-maven
+Step 1. Add the JitPack repository to your build file maven
 
 ```xml
 <repositories>
@@ -41,109 +39,6 @@ Step 2. Add the dependency
     <artifactId>leetcode-test-kotlin</artifactId>
     <version>10.9.2</version>
 </dependency>
-```
-
-#### 安装教程
-
-1.安装`deno`
-
-<https://deno.land/#installation>
-
-2.安装 `udd`
-
-<https://deno.land/x/udd#installation>
-
-#### 使用说明
-
-1.测试
-
-```bash
-deno task test
-```
-
-2.升级依赖
-
-```bash
-deno task udd
-```
-
-3.格式化
-
-```shell
-deno task fmt
-```
-
-4.lint
-
-```bash
-deno task lint
-```
-
-5.type check
-
-```bash
-deno task check
-```
-
-### Deno
-
-<https://deno.land/x/masx200_leetcode_test>
-
-<https://denopkg.com/masx200/leetcode-test-kotlin>
-
-<https://cdn.jsdelivr.net/gh/masx200/leetcode-test-kotlin/>
-
-1.导入模块
-
-指定版本号
-
-```ts
-import {} from "https://deno.land/x/masx200_leetcode_test@7.0.0/mod.ts";
-```
-
-2.使用举例
-
-```ts
-import { climbing_stairs_bigint } from "https://deno.land/x/masx200_leetcode_test@7.0.0/mod.ts";
-```
-
-```ts
-import climbing_stairs from "https://deno.land/x/masx200_leetcode_test@7.0.0/climbing-stairs/index.ts";
-```
-
-`deno` 要设定`--import-map`参数
-
-```
---import-map https://denopkg.com/masx200/leetcode-test-kotlin@12.3.0/import_map.json
-```
-
-### Golang
-
-```bash
-go get github.com/masx200/leetcode-test-kotlin
-```
-
-<https://pkg.go.dev/github.com/masx200/leetcode-test-kotlin>
-
-#### 参与贡献
-
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-### Building a Monorepo in Golang
-
-<https://earthly.dev/blog/golang-monorepo/>
-
-.vscode/settings.json
-
-```json
-{
-    "gopls": {
-        "experimentalWorkspaceModule": true
-    }
-}
 ```
 
 ##### 包含的内容如下

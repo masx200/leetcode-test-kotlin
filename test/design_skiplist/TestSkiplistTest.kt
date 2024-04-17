@@ -1,4 +1,4 @@
-package com.github.masx200.leetcode_test.design_skiplist
+package com.github.masx200.leetcode_test_kotlin.design_skiplist
 
 import kotlin.test.Test
 import kotlin.test.assertEquals

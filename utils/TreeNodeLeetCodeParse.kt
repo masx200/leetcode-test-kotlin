@@ -1,6 +1,6 @@
-package com.github.masx200.leetcode_test.utils
+package com.github.masx200.leetcode_test_kotlin.utils
 
-import com.github.masx200.leetcode_test.insert_into_a_binary_search_tree.TreeNode
+import com.github.masx200.leetcode_test_kotlin.insert_into_a_binary_search_tree.TreeNode
 import com.github.masx200.leetcode_treenode_java.TreeNode.constructTree
 import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.json.Json

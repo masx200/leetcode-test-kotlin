@@ -1,4 +1,4 @@
-package com.github.masx200.leetcode_test.remove_vowels_from_a_string
+package com.github.masx200.leetcode_test_kotlin.remove_vowels_from_a_string
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test

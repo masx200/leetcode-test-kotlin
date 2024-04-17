@@ -1,6 +1,6 @@
-package com.github.masx200.leetcode_test.er_cha_shu_ran_se_ugc
+package com.github.masx200.leetcode_test_kotlin.er_cha_shu_ran_se_ugc
 
-import com.github.masx200.leetcode_test.utils.TreeNodeLeetCodeParse
+import com.github.masx200.leetcode_test_kotlin.utils.TreeNodeLeetCodeParse
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals
 

@@ -1,6 +1,6 @@
-package com.github.masx200.leetcode_test.er_cha_sou_suo_shu_de_di_kda_jie_dian_lcof
+package com.github.masx200.leetcode_test_kotlin.er_cha_sou_suo_shu_de_di_kda_jie_dian_lcof
 
-import com.github.masx200.leetcode_test.utils.TreeNodeLeetCodeParse
+import com.github.masx200.leetcode_test_kotlin.utils.TreeNodeLeetCodeParse
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 

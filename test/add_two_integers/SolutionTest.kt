@@ -1,4 +1,4 @@
-package com.github.masx200.leetcode_test.add_two_integers
+package com.github.masx200.leetcode_test_kotlin.add_two_integers
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Assertions.assertNotEquals

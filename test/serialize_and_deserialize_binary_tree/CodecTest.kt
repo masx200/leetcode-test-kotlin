@@ -1,6 +1,6 @@
-package com.github.masx200.leetcode_test.serialize_and_deserialize_binary_tree
+package com.github.masx200.leetcode_test_kotlin.serialize_and_deserialize_binary_tree
 
-import com.github.masx200.leetcode_test.insert_into_a_binary_search_tree.TreeNode
+import com.github.masx200.leetcode_test_kotlin.insert_into_a_binary_search_tree.TreeNode
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 

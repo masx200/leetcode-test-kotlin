@@ -1,4 +1,4 @@
-package com.github.masx200.leetcode_test.utils
+package com.github.masx200.leetcode_test_kotlin.utils
 
 import kotlin.reflect.KClass
 import kotlin.reflect.KFunction

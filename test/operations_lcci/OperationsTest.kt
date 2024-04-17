@@ -1,8 +1,8 @@
-package com.github.masx200.leetcode_test.operations_lcci
+package com.github.masx200.leetcode_test_kotlin.operations_lcci
 
 import com.alibaba.fastjson2.JSON
 import com.alibaba.fastjson2.JSONArray
-import com.github.masx200.leetcode_test.utils.runScript
+import com.github.masx200.leetcode_test_kotlin.utils.runScript
 import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.json.Json
 import org.junit.jupiter.api.Test
