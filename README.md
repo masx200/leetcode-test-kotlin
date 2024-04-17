@@ -53,6 +53,12 @@ mvn compile --file pom.xml
 mvn test --file pom.xml
 ```
 
+## 打包
+
+```bash
+mvn  package -DskipTests
+```
+
 ##### 包含的内容如下
 
 <details>
