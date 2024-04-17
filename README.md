@@ -2549,4 +2549,6 @@ https://leetcode.cn/problems/modify-graph-edge-weights
 
 https://leetcode.cn/problems/average-value-of-even-numbers-that-are-divisible-by-three/
 
+https://leetcode.cn/problems/capitalize-the-title/
+
 </details>
