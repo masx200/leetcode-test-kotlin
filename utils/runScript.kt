@@ -42,7 +42,7 @@ fun runScript(
                                 "double" -> old.toDouble()
                                 "float" -> old.toFloat()
                                 "long" -> old.toLong()
-                                "char" -> old.toChar()
+                                "char" -> old.toInt().toChar()
                                 "short" -> old.toShort()
                                 "byte" -> old.toByte()
                                 else -> {
