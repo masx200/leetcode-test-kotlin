@@ -74,12 +74,12 @@
                     <dependency>
                         <groupId>org.jetbrains.kotlin</groupId>
                         <artifactId>kotlin-maven-serialization</artifactId>
-                        <version>1.8.0</version>
+                        <version>1.9.23</version>
                     </dependency>
                 </dependencies>
 
 
-                <version>1.8.0</version>
+                <version>1.9.23</version>
                 <executions>
                     <execution>
                         <?m2e execute onConfiguration,onIncremental?>
