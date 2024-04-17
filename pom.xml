@@ -33,7 +33,7 @@
     </repositories>
 
     <build>
-        <sourceDirectory>./count-vowel-strings-in-ranges</sourceDirectory>
+        <sourceDirectory>./src</sourceDirectory>
 
         <testSourceDirectory>./test</testSourceDirectory>
 

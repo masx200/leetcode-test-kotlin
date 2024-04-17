@@ -41,6 +41,18 @@ Step 2. Add the dependency
 </dependency>
 ```
 
+## 编译
+
+```bash
+mvn compile --file pom.xml
+```
+
+## 测试
+
+```bash
+mvn test --file pom.xml
+```
+
 ##### 包含的内容如下
 
 <details>
