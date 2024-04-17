@@ -2,7 +2,7 @@
 
 #### 介绍
 
-leetcode 测试和题解,包含 c++/typescript/golang/kotlin 版本.
+leetcode 测试和题解,包含 kotlin 版本.
 
 ### 软件架构
 
