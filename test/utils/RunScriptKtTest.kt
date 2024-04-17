@@ -2,27 +2,27 @@ package com.github.masx200.leetcode_test_kotlin.utils
 
 import com.alibaba.fastjson2.JSON
 import com.alibaba.fastjson2.JSONArray
+import com.github.masx200.leetcode_test_kotlin.operations_lcci.Operations
 import com.github.masx200.leetcode_test_kotlin.operations_lcci.mapToLong
-import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.json.Json
 import org.junit.jupiter.api.Test
 import kotlin.test.assertContentEquals
 import kotlin.test.assertEquals
 
-class Operations {
-
-    fun minus(a: Int, b: Int): Int {
-        return a - b
-    }
-
-    fun multiply(a: Int, b: Int): Int {
-        return a * b
-    }
-
-    fun divide(a: Int, b: Int): Int {
-        return a / b
-    }
-}
+//class Operations {
+//
+//    fun minus(a: Int, b: Int): Int {
+//        return a - b
+//    }
+//
+//    fun multiply(a: Int, b: Int): Int {
+//        return a * b
+//    }
+//
+//    fun divide(a: Int, b: Int): Int {
+//        return a / b
+//    }
+//}
 
 class RunScriptKtTest {
     @Test
