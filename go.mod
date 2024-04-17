@@ -1,4 +1,4 @@
-module github.com/masx200/leetcode-test
+module github.com/masx200/leetcode-test-kotlin
 
 go 1.21
 

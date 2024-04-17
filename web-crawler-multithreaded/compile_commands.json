@@ -1,6 +1,6 @@
 [
     {
-        "directory": "C:\\leetcode-test\\web-crawler-multithreaded",
+        "directory": "C:\\leetcode-test-kotlin\\web-crawler-multithreaded",
         "arguments": [
             "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
             "/nologo",
@@ -19,7 +19,7 @@
         "file": "HtmlParser.ixx"
     },
     {
-        "directory": "C:\\leetcode-test\\web-crawler-multithreaded",
+        "directory": "C:\\leetcode-test-kotlin\\web-crawler-multithreaded",
         "arguments": [
             "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
             "/nologo",
@@ -40,7 +40,7 @@
         "file": "index.ixx"
     },
     {
-        "directory": "C:\\leetcode-test\\web-crawler-multithreaded",
+        "directory": "C:\\leetcode-test-kotlin\\web-crawler-multithreaded",
         "arguments": [
             "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
             "/c",
@@ -61,7 +61,7 @@
         "file": "test.cpp"
     },
     {
-        "directory": "C:\\leetcode-test\\web-crawler-multithreaded",
+        "directory": "C:\\leetcode-test-kotlin\\web-crawler-multithreaded",
         "arguments": [
             "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
             "/nologo",
@@ -79,7 +79,7 @@
         "file": "HtmlParser.ixx"
     },
     {
-        "directory": "C:\\leetcode-test\\web-crawler-multithreaded",
+        "directory": "C:\\leetcode-test-kotlin\\web-crawler-multithreaded",
         "arguments": [
             "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
             "/nologo",

@@ -6,12 +6,12 @@
 >
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>leetcode-test</artifactId>
+    <artifactId>leetcode-test-kotlin</artifactId>
     <groupId>com.github.masx200</groupId>
     <version>10.10.0</version>
     <packaging>jar</packaging>
 
-    <name>leetcode-test</name>
+    <name>leetcode-test-kotlin</name>
 
     <properties>
     <kotlin.compiler.languageVersion>1.9</kotlin.compiler.languageVersion>

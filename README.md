@@ -1,4 +1,4 @@
-# leetcode-test
+# leetcode-test-kotlin
 
 #### 介绍
 
@@ -10,13 +10,13 @@ leetcode 测试和题解,包含 c++/typescript/golang/kotlin 版本.
 
 这里有一些测试的工具:
 
-<https://github.com/masx200/leetcode-test/tree/master/utils>
+<https://github.com/masx200/leetcode-test-kotlin/tree/master/utils>
 
 ### maven
 
-<https://jitpack.io/#masx200/leetcode-test>
+<https://jitpack.io/#masx200/leetcode-test-kotlin>
 
-[![](https://jitpack.io/v/masx200/leetcode-test.svg)](https://jitpack.io/#masx200/leetcode-test)
+[![](https://jitpack.io/v/masx200/leetcode-test-kotlin.svg)](https://jitpack.io/#masx200/leetcode-test-kotlin)
 
 To get a Git project into your build:
 
@@ -38,7 +38,7 @@ Step 2. Add the dependency
 ```xml
 <dependency>
     <groupId>com.github.masx200</groupId>
-    <artifactId>leetcode-test</artifactId>
+    <artifactId>leetcode-test-kotlin</artifactId>
     <version>10.9.2</version>
 </dependency>
 ```
@@ -89,9 +89,9 @@ deno task check
 
 <https://deno.land/x/masx200_leetcode_test>
 
-<https://denopkg.com/masx200/leetcode-test>
+<https://denopkg.com/masx200/leetcode-test-kotlin>
 
-<https://cdn.jsdelivr.net/gh/masx200/leetcode-test/>
+<https://cdn.jsdelivr.net/gh/masx200/leetcode-test-kotlin/>
 
 1.导入模块
 
@@ -114,16 +114,16 @@ import climbing_stairs from "https://deno.land/x/masx200_leetcode_test@7.0.0/cli
 `deno` 要设定`--import-map`参数
 
 ```
---import-map https://denopkg.com/masx200/leetcode-test@12.3.0/import_map.json
+--import-map https://denopkg.com/masx200/leetcode-test-kotlin@12.3.0/import_map.json
 ```
 
 ### Golang
 
 ```bash
-go get github.com/masx200/leetcode-test
+go get github.com/masx200/leetcode-test-kotlin
 ```
 
-<https://pkg.go.dev/github.com/masx200/leetcode-test>
+<https://pkg.go.dev/github.com/masx200/leetcode-test-kotlin>
 
 #### 参与贡献
 

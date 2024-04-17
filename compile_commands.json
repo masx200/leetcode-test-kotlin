@@ -1,6 +1,6 @@
 [
     {
-        "directory": "C:\\leetcode-test",
+        "directory": "C:\\leetcode-test-kotlin",
         "arguments": [
             "C:\\Program Files\\LLVM\\bin\\clang.exe",
             "-c",
@@ -22,7 +22,7 @@
         "file": "split-a-circular-linked-list\\test.cpp"
     },
     {
-        "directory": "C:\\leetcode-test",
+        "directory": "C:\\leetcode-test-kotlin",
         "arguments": [
             "C:\\Program Files\\LLVM\\bin\\clang.exe",
             "-c",
@@ -44,7 +44,7 @@
         "file": "insert-into-a-binary-search-tree\\test.cpp"
     },
     {
-        "directory": "C:\\leetcode-test",
+        "directory": "C:\\leetcode-test-kotlin",
         "arguments": [
             "C:\\Program Files\\LLVM\\bin\\clang.exe",
             "-c",
@@ -59,7 +59,7 @@
             "-isystem",
             "C:\\Users\\Administrator\\Documents\\vcpkg-master\\installed\\x64-windows-static\\include",
             "-DNDEBUG",
-            "-fmodule-file=leetcode_test.design_linked_list.MyLinkedList=build\\.gens\\leetcode-test\\windows\\x64\\release\\rules\\modules\\cache\\f3246e21\\leetcode_test.design_linked_list.MyLinkedList.pcm",
+            "-fmodule-file=leetcode_test.design_linked_list.MyLinkedList=build\\.gens\\leetcode-test-kotlin\\windows\\x64\\release\\rules\\modules\\cache\\f3246e21\\leetcode_test.design_linked_list.MyLinkedList.pcm",
             "-o",
             "build\\.objs\\design-linked-list-test\\windows\\x64\\release\\design-linked-list\\test.cpp.obj",
             "design-linked-list\\test.cpp"
@@ -67,7 +67,7 @@
         "file": "design-linked-list\\test.cpp"
     },
     {
-        "directory": "C:\\leetcode-test",
+        "directory": "C:\\leetcode-test-kotlin",
         "arguments": [
             "C:\\Program Files\\LLVM\\bin\\clang.exe",
             "-c",
@@ -78,12 +78,12 @@
             "-fcxx-exceptions",
             "-isystem",
             "C:\\Users\\Administrator\\Documents\\vcpkg-master\\installed\\x64-windows-static\\include",
-            "-fmodule-file=leetcode_treenode_cpp.freeTreeNode=build\\.gens\\leetcode-test\\windows\\x64\\release\\rules\\modules\\cache\\f3246e21\\leetcode_treenode_cpp.freeTreeNode.pcm",
-            "-fmodule-file=leetcode_treenode_cpp.TreeNode=build\\.gens\\leetcode-test\\windows\\x64\\release\\rules\\modules\\cache\\f3246e21\\leetcode_treenode_cpp.TreeNode.pcm",
-            "-fmodule-file=leetcode_treenode_cpp.LeetCodeTreeNodeToString=build\\.gens\\leetcode-test\\windows\\x64\\release\\rules\\modules\\cache\\f3246e21\\leetcode_treenode_cpp.LeetCodeTreeNodeToString.pcm",
-            "-fmodule-file=leetcode_treenode_cpp.bfsTravelsal=build\\.gens\\leetcode-test\\windows\\x64\\release\\rules\\modules\\cache\\f3246e21\\leetcode_treenode_cpp.bfsTravelsal.pcm",
-            "-fmodule-file=leetcode_treenode_cpp.serializeTreeNode=build\\.gens\\leetcode-test\\windows\\x64\\release\\rules\\modules\\cache\\f3246e21\\leetcode_treenode_cpp.serializeTreeNode.pcm",
-            "-fmodule-file=leetcode_treenode_cpp.parseLeetCodeBinaryTree=build\\.gens\\leetcode-test\\windows\\x64\\release\\rules\\modules\\cache\\f3246e21\\leetcode_treenode_cpp.parseLeetCodeBinaryTree.pcm",
+            "-fmodule-file=leetcode_treenode_cpp.freeTreeNode=build\\.gens\\leetcode-test-kotlin\\windows\\x64\\release\\rules\\modules\\cache\\f3246e21\\leetcode_treenode_cpp.freeTreeNode.pcm",
+            "-fmodule-file=leetcode_treenode_cpp.TreeNode=build\\.gens\\leetcode-test-kotlin\\windows\\x64\\release\\rules\\modules\\cache\\f3246e21\\leetcode_treenode_cpp.TreeNode.pcm",
+            "-fmodule-file=leetcode_treenode_cpp.LeetCodeTreeNodeToString=build\\.gens\\leetcode-test-kotlin\\windows\\x64\\release\\rules\\modules\\cache\\f3246e21\\leetcode_treenode_cpp.LeetCodeTreeNodeToString.pcm",
+            "-fmodule-file=leetcode_treenode_cpp.bfsTravelsal=build\\.gens\\leetcode-test-kotlin\\windows\\x64\\release\\rules\\modules\\cache\\f3246e21\\leetcode_treenode_cpp.bfsTravelsal.pcm",
+            "-fmodule-file=leetcode_treenode_cpp.serializeTreeNode=build\\.gens\\leetcode-test-kotlin\\windows\\x64\\release\\rules\\modules\\cache\\f3246e21\\leetcode_treenode_cpp.serializeTreeNode.pcm",
+            "-fmodule-file=leetcode_treenode_cpp.parseLeetCodeBinaryTree=build\\.gens\\leetcode-test-kotlin\\windows\\x64\\release\\rules\\modules\\cache\\f3246e21\\leetcode_treenode_cpp.parseLeetCodeBinaryTree.pcm",
             "-o",
             "build\\.objs\\test\\windows\\x64\\release\\leetcode-treenode-cpp\\test.cpp.obj",
             "leetcode-treenode-cpp\\test.cpp"
@@ -91,7 +91,7 @@
         "file": "leetcode-treenode-cpp\\test.cpp"
     },
     {
-        "directory": "C:\\leetcode-test",
+        "directory": "C:\\leetcode-test-kotlin",
         "arguments": [
             "C:\\Program Files\\LLVM\\bin\\clang.exe",
             "-c",
@@ -113,7 +113,7 @@
         "file": "fibonacci-number\\test.cpp"
     },
     {
-        "directory": "C:\\leetcode-test",
+        "directory": "C:\\leetcode-test-kotlin",
         "arguments": [
             "C:\\Program Files\\LLVM\\bin\\clang.exe",
             "-c",
@@ -135,7 +135,7 @@
         "file": "insufficient-nodes-in-root-to-leaf-paths\\test.cpp"
     },
     {
-        "directory": "C:\\leetcode-test",
+        "directory": "C:\\leetcode-test-kotlin",
         "arguments": [
             "C:\\Program Files\\LLVM\\bin\\clang.exe",
             "-c",
