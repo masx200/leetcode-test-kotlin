@@ -65,6 +65,10 @@ mvn  package -DskipTests
 
 <summary>展开查看</summary>
 
+https://leetcode.cn/problems/minimum-time-visiting-all-points
+
+https://leetcode.cn/problems/day-of-the-week/
+
 https://leetcode.cn/problems/Ju9Xwi/
 
 https://leetcode.cn/problems/split-strings-by-separator
