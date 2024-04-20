@@ -2559,4 +2559,6 @@ https://leetcode.cn/problems/average-value-of-even-numbers-that-are-divisible-by
 
 https://leetcode.cn/problems/capitalize-the-title/
 
+https://leetcode.cn/problems/number-of-lines-to-write-string
+
 </details>
