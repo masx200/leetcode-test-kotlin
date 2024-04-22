@@ -2573,4 +2573,6 @@ https://leetcode.cn/problems/number-of-lines-to-write-string
 
 https://leetcode.cn/problems/remove-invalid-parentheses/
 
+https://leetcode.cn/problems/design-memory-allocator/
+
 </details>
