@@ -65,6 +65,8 @@ mvn  package -DskipTests
 
 <summary>展开查看</summary>
 
+https://leetcode.cn/problems/shuffle-an-array/
+
 https://leetcode.cn/problems/minimum-time-visiting-all-points
 
 https://leetcode.cn/problems/day-of-the-week/
