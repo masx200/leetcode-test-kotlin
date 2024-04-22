@@ -2571,4 +2571,6 @@ https://leetcode.cn/problems/capitalize-the-title/
 
 https://leetcode.cn/problems/number-of-lines-to-write-string
 
+https://leetcode.cn/problems/remove-invalid-parentheses/
+
 </details>
