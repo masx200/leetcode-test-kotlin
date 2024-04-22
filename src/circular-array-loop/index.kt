@@ -1,4 +1,4 @@
-package `circular-array-loop`
+package com.github.masx200.leetcode_test_kotlin.circular_array_loop
 
 class Solution {
     fun circularArrayLoop(nums: IntArray): Boolean {
