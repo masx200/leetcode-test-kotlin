@@ -1,4 +1,5 @@
 package com.github.masx200.leetcode_test_kotlin.Ju9Xwi
+
 import kotlin.math.ln
 import kotlin.math.log2
 import kotlin.math.pow

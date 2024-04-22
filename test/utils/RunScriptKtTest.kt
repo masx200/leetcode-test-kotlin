@@ -79,7 +79,7 @@ class RunScriptKtTest {
                 ]
 """,
                 ) as
-                    ArrayList<ArrayList<Any>>,
+                        ArrayList<ArrayList<Any>>,
                 Operations::class,
             )
 

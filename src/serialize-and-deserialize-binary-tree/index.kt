@@ -9,7 +9,8 @@ class Codec {
             return when (node) {
                 null -> "null"
                 is TreeNode -> {
-                    listOf(node.`val`, node.left, node.right).joinToString(",", "[", "]") { element,
+                    listOf(node.`val`, node.left, node.right).joinToString(",", "[", "]") {
+                            element,
                         ->
                         dfs(element)
                     }

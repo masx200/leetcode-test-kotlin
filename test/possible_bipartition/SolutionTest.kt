@@ -1,6 +1,5 @@
 package com.github.masx200.leetcode_test_kotlin.possible_bipartition
 
-import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.json.Json
 import org.junit.jupiter.api.Test
 import kotlin.test.assertContentEquals

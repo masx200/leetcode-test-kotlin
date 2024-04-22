@@ -18,12 +18,12 @@ internal class CodecTest {
         assertEquals(
             Codec().serialize(
                 (
-                    TreeNode(
-                        100,
-                        TreeNode(-200),
-                        TreeNode(300, TreeNode(100, TreeNode(20), TreeNode(300))),
-                    )
-                    ),
+                        TreeNode(
+                            100,
+                            TreeNode(-200),
+                            TreeNode(300, TreeNode(100, TreeNode(20), TreeNode(300))),
+                        )
+                        ),
             ),
             Codec().serialize(
                 Codec().deserialize(

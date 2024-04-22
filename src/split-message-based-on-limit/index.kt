@@ -35,9 +35,9 @@ class Solution {
                         Math.min(
                             message.length,
                             len + limit -
-                                3 -
-                                (it + 1).toString().length -
-                                left.toString().length,
+                                    3 -
+                                    (it + 1).toString().length -
+                                    left.toString().length,
                         ),
                     )
 
