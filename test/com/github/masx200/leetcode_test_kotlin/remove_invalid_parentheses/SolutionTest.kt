@@ -2,7 +2,6 @@ package com.github.masx200.leetcode_test_kotlin.remove_invalid_parentheses
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
-import kotlin.test.assertContentEquals
 
 class SolutionTest {
     @Test
@@ -27,12 +26,13 @@ class SolutionTest {
             Pair("()())()", listOf("()()()", "(())()")),
             Pair("(a)())()", listOf("(a)()()", "(a())()")),
 
-        )
+            )
 
         for ((s, expected) in testCases) {
             assertEquals(expected.toSet(), solution.removeInvalidParentheses(s).toSet())
         }
     }
+
     @Test
     fun removeInvalidParentheses2() {
         val solution = Solution()
