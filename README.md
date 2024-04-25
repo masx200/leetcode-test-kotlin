@@ -65,6 +65,8 @@ mvn  package -DskipTests
 
 <summary>展开查看</summary>
 
+https://leetcode.cn/problems/total-distance-traveled/
+
 https://leetcode.cn/problems/circular-array-loop/
 
 https://leetcode.cn/problems/remove-comments
