@@ -65,6 +65,9 @@ mvn  package -DskipTests
 
 <summary>展开查看</summary>
 
+
+https://leetcode.cn/problems/find-the-width-of-columns-of-a-grid/
+
 https://leetcode.cn/problems/kth-ancestor-of-a-tree-node
 
 https://leetcode.cn/problems/snapshot-array/
