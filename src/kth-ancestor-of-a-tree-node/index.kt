@@ -14,7 +14,7 @@ class TreeAncestor(val n: Int, private val parent: IntArray) {
             k == 0 -> node
             k == 1 -> parent[node]
             else -> {
-                val even = 1.shl((k - 1).countOneBits())
+                val even = Math.pow(2.toDouble(), Math.floor(Math.log(k.toDouble()) / Math.log(2.0))).toInt()
                 val half = if (even == k) k / 2 else even
 
                 val res = getKthAncestor(getKthAncestor(node, half), k - half)
