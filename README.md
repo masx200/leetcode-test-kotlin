@@ -23,17 +23,19 @@ To get a Git project into your build:
 Step 1. Add the JitPack repository to your build file maven
 
 ```xml
+
 <repositories>
- <repository>
-     <id>jitpack.io</id>
-     <url>https://jitpack.io</url>
- </repository>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
 </repositories>
 ```
 
 Step 2. Add the dependency
 
 ```xml
+
 <dependency>
     <groupId>com.github.masx200</groupId>
     <artifactId>leetcode-test-kotlin</artifactId>

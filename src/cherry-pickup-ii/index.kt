@@ -13,7 +13,7 @@ class Solution {
         var best = 0
         for (dj1 in listOf(j1 - 1, j1, j1 + 1).filter { it in 0..<n }) {
             for (dj2 in listOf(j2 - 1, j2, j2 + 1).filter { it in 0..<n }) {
-                best = maxOf(best, dfsCache(grid,cache,i + 1, dj1, dj2))
+                best = maxOf(best, dfsCache(grid, cache, i + 1, dj1, dj2))
             }
         }
         return best + getValue(grid, i, j1, j2)
@@ -23,7 +23,7 @@ class Solution {
         val key = Triple(x, y, q)
         if (cache.containsKey(key)) return cache[key]!!
 
-        val result = dfs(grid,cache, x, y, q)
+        val result = dfs(grid, cache, x, y, q)
         cache[key] = result
         return result
     }
