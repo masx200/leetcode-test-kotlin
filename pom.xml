@@ -276,7 +276,7 @@
         <dependency>
             <groupId>org.jetbrains.kotlin</groupId>
             <artifactId>kotlin-stdlib-common</artifactId>
-            <version>1.9.23</version>
+            <version>1.9.24</version>
         </dependency>
 
 
@@ -297,7 +297,7 @@
             <dependency>
                 <groupId>org.jetbrains.kotlin</groupId>
                 <artifactId>kotlin-stdlib-common</artifactId>
-                <version>1.9.23</version>
+                <version>1.9.24</version>
             </dependency>
 
 
